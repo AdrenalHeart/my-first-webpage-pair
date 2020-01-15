@@ -1,12 +1,12 @@
-# _{First HTML Webpage}_
+# _First HTML Webpage_
 
-#### _{MS Visual Studio}, {01.14.2020}_
+#### _MS Visual Studio, 01.14.2020_
 
-#### By _**{Joseph Golden & Reggie Golden}**_
+#### By _**Joseph Golden & Reggie Golden**_
 
 ## Description
 
-_{This webpage is a work-in-progress project with the guidance of Epicodus. "My First Webpage" gives the reader a brief intro about the coder. For instance, some of the topics to be learned at Epicodus. The webpage is in correspondence with another HTML webpage: "Favorite Things." Here, the reader gets a more in-depth look into who the coder is. It also includes multiple links and photos of the coder's family, pets, and favorite ice cream. Moving forward, this webpage will incorporate topics such as CSS, styling text, branching, and merging.}_
+_This webpage is a work-in-progress project with the guidance of Epicodus. "My First Webpage" gives the reader a brief intro about the coder. For instance, some of the topics to be learned at Epicodus. The webpage is in correspondence with another HTML webpage: "Favorite Things." Here, the reader gets a more in-depth look into who the coder is. It also includes multiple links and photos of the coder's family, pets, and favorite ice cream. Moving forward, this webpage will incorporate topics such as CSS, styling text, branching, and merging._
 
 ## Setup/Installation Requirements
 
@@ -18,24 +18,25 @@ _{This webpage is a work-in-progress project with the guidance of Epicodus. "My 
 
 ## Known Bugs
 
-_{As of 01/14/20 6:43pm, there are no current bugs.}_
+_As of 01/14/20 6:43pm, there are no current bugs._
 
 ## Support and contact details
 
-_{If you have any questions or concerns, please feel free to contact us at:
+_If you have any questions or concerns, please feel free to contact us at:_
+
     Joseph Golden:
       Phone: (971) XXX-XXXX
       Email: Omniint2@protonmail.com
 
     Reggie Golden:
      Phone: (971) XXX-XXXX
-     Email: omniint3@protonmail.com}_
+     Email: omniint3@protonmail.com_
 
 ## Technologies Used
 
-_{HTML
-  Markdown
-  Git}_
+* _HTML_
+*  _Markdown_
+* _Git_
 
 ### License
 
