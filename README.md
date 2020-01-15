@@ -30,7 +30,7 @@ _If you have any questions or concerns, please feel free to contact us at:_
 
     Reggie Golden:
      Phone: (971) XXX-XXXX
-     Email: omniint3@protonmail.com_
+     Email: Omniint3@protonmail.com
 
 ## Technologies Used
 
