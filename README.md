@@ -40,4 +40,4 @@ _If you have any questions or concerns, please feel free to contact us at:_
 
 ### License
 
-Copyright (c) 2020 **_{Joseph Golden, Reggie Golden}_**
+Copyright (c) 2020 **_Joseph Golden, Reggie Golden_**
